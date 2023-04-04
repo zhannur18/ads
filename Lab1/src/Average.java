@@ -1,5 +1,6 @@
+//2
 public class Average {
- 
+
     public static void main(String[] args) {
         int[] arr = {3,2,4, 1};
         double avg = findAvr(arr, 4);
